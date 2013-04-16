@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CriterionManufacturingSolutions.Products.KiosksSolution.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="D4BED92BC305" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Bay0012</Value>
+    </Setting>
+    <Setting Name="Bay0012" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Store</Value>
+    </Setting>
+    <Setting Name="Bay0013" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Retrieve</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
